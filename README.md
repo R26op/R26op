@@ -26,13 +26,13 @@ Página pública de la clínica: protocolos, equipo, contacto y agendar cita. **
 
 <p align="center">
   <a href="https://www.ciadiiguala.com/">
-    <img src="assets/ciadi-sitio.png" alt="Sitio institucional CIADI" width="92%">
+    <img src="assets/ciadi-inicio.png" alt="Sitio institucional CIADI" width="92%">
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.ciadiiguala.com/protocolos">
-    <img src="assets/ciadi-protocolos.png" alt="Protocolos del sitio CIADI" width="92%">
+    <img src="assets/ciadi-programas.png" alt="Protocolos del sitio CIADI" width="92%">
   </a>
 </p>
 
