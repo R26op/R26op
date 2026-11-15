@@ -22,16 +22,16 @@ Sistema y sitio de la **Clínica Integral de Atención en Diabetes** (Iguala). E
 
 Página pública de la clínica: protocolos, equipo, contacto y agendar cita. **Next.js / TypeScript**. En línea:
 
-**[clinicaciadi.vercel.app](https://clinicaciadi.vercel.app)**
+**[www.ciadiiguala.com](https://www.ciadiiguala.com/)**
 
 <p align="center">
-  <a href="https://clinicaciadi.vercel.app">
+  <a href="https://www.ciadiiguala.com/">
     <img src="assets/ciadi-sitio.png" alt="Sitio institucional CIADI" width="92%">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://clinicaciadi.vercel.app/protocolos">
+  <a href="https://www.ciadiiguala.com/protocolos">
     <img src="assets/ciadi-protocolos.png" alt="Protocolos del sitio CIADI" width="92%">
   </a>
 </p>
