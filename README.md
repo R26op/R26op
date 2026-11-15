@@ -48,7 +48,7 @@ Aplicación web que desarrollé en colaboración para el día a día de la clín
 | Especialidades | Medicina interna, nutrición, psicología, actividad física, pies y educación |
 | Reportes | Cohortes, gráficas y exportación a Excel |
 
-El repositorio no es público porque guarda expediente de pacientes. Si un reclutador necesita ver el código, se comparte acceso.
+El repositorio es privado por confidencialidad de la información clínica. Si se requiere revisar el código, se puede compartir acceso.
 
 ---
 
