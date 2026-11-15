@@ -38,7 +38,7 @@ Página pública de la clínica: protocolos, equipo, contacto y agendar cita. **
 
 ### Sistema clínico interno
 
-Aplicación web que desarrollé para el día a día de la clínica (PHP 8, MySQL, Bootstrap). No es un ejercicio de clase: la usa el personal con roles (médico, nutrición, psicología, recepción, laboratorio).
+Aplicación web que desarrollé en colaboración para el día a día de la clínica (PHP 8, MySQL, Bootstrap). No es un ejercicio de clase: la usa el personal con roles (médico, nutrición, psicología, recepción, laboratorio).
 
 | Módulo | Qué hace |
 |--------|----------|
