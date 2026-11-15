@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Ramses Antonio Díaz" width="100%">
+  <img src="assets/header.png" alt="Ramses Antonio Díaz" width="100%">
 </p>
 
 <p align="center">
